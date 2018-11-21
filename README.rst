@@ -2,6 +2,7 @@ JWT.erl
 =======
 My latest update test
 making some new updates
+master edit
 An Erlang implementation of `JSON Web Token draft 01 <http://self-issued.info/docs/draft-jones-json-web-token-01.html>`_
 
 Usage
