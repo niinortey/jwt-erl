@@ -5,6 +5,7 @@ created stable branch. Ok done
 An Erlang implementation of `JSON Web Token draft 01 <http://self-issued.info/docs/draft-jones-json-web-token-01.html>`_
 stable edit
 submodule dev
+the devil edited stable again
 Usage
 -----
 
